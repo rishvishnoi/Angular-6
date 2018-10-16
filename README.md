@@ -1,3 +1,6 @@
+##
+After downloading or cloning this project.Perform npm install in the project directory through cmd.
+
 # APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
